@@ -1,0 +1,14 @@
+
+	            G L O B A L   R E F E R E N C E S
+
+	             Name               Value        Type
+	==============================|=======|===============
+	Inicio                           0000            LABEL
+	LoopBorda                        0009            LABEL
+	LoopBordaL                       001F            LABEL
+	Fim                              003C            LABEL
+	CURSOR                           FFFC         CONSTANT
+	WRITE                            FFFE         CONSTANT
+	CURSOR_INIT                      FFFF         CONSTANT
+	NaveLinha                        8000         VARIABLE
+	NaveColuna                       8001         VARIABLE
